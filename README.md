@@ -15,6 +15,6 @@
 
 ***
 
-<a href="https://drive.google.com/file/d/18XP_f3tk46SepkAWkm5ZhBT-5OZPsj9n/view">Vídeo do projeto</a>
+<a href="https://drive.google.com/file/d/18XP_f3tk46SepkAWkm5ZhBT-5OZPsj9n/view"  target="_blank">Vídeo do projeto</a>
 
 
